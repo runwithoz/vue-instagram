@@ -1,0 +1,32 @@
+export default [
+  {
+    name: "milk_thief",
+    userImage: "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    postImage: "https://runwithoz.github.io/vuestagram/img_03.jpg",
+    likes: 49,
+    date: "5월 30일",
+    liked: false,
+    content: "아련",
+    filter: "lofi",
+  },
+  {
+    name: "milk_thief",
+    userImage: "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    postImage: "https://runwithoz.github.io/vuestagram/img_04.jpg",
+    likes: 25,
+    date: "8월 13일",
+    liked: false,
+    content: "귀 간지러워요",
+    filter: "lofi",
+  },
+  {
+    name: "milk_thief",
+    userImage: "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    postImage: "https://runwithoz.github.io/vuestagram/img_05.jpg",
+    likes: 16,
+    date: "8월 29일",
+    liked: false,
+    content: "내놔",
+    filter: "lofi",
+  },
+];

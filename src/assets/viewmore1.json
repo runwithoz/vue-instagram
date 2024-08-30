@@ -1,0 +1,12 @@
+[
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_02.jpg",
+    "likes": 20,
+    "date": "4 월 2일",
+    "liked": false,
+    "content": "봄이다",
+    "filter": "clarendon"
+  }
+]

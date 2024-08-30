@@ -1,0 +1,12 @@
+[
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_01.jpg",
+    "likes": 36,
+    "date": "2023년 12월 23일",
+    "liked": false,
+    "content": "❄️",
+    "filter": "perpetua"
+  }
+]

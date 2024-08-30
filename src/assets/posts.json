@@ -1,0 +1,52 @@
+[
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_01.jpg",
+    "likes": 36,
+    "date": "2023년 12월 23일",
+    "liked": false,
+    "content": "❄️",
+    "filter": "perpetua"
+  },
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_02.jpg",
+    "likes": 20,
+    "date": "4 월 2일",
+    "liked": false,
+    "content": "봄이다",
+    "filter": "clarendon"
+  },
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_03.jpg",
+    "likes": 49,
+    "date": "5월 30일",
+    "liked": false,
+    "content": "아련",
+    "filter": "lofi"
+  },
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_04.jpg",
+    "likes": 49,
+    "date": "8월 13일",
+    "liked": false,
+    "content": "귀 간지러워요",
+    "filter": "lofi"
+  },
+  {
+    "name": "milk_thief",
+    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
+    "postImage": "https://runwithoz.github.io/vuestagram/img_05.jpg",
+    "likes": 49,
+    "date": "8월 29일",
+    "liked": false,
+    "content": "내놔",
+    "filter": "lofi"
+  }
+]
