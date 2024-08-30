@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueinstagram"]=self["webpackChunkvueinstagram"]||[]).push([[594],{603:function(n,u,a){a.r(u),a.d(u,{default:function(){return l}});var t=a(6768);const e={class:"about"},r=(0,t.Lk)("h1",null,"This is an about page",-1),s=[r];function c(n,u){return(0,t.uX)(),(0,t.CE)("div",e,s)}var i=a(1241);const o={},f=(0,i.A)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.d20e6dea.js.map
